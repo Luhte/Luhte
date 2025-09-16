@@ -46,10 +46,6 @@ I'm a passionate developer who loves to create, learn, and share knowledge with 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luhte&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luhte&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
